@@ -1,0 +1,27 @@
+18:25:15.001 [main] DEBUG - Save part 'docProps/app.xml'
+18:25:15.008 [main] DEBUG - Save part 'docProps/core.xml'
+18:25:15.010 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+18:25:15.010 [main] DEBUG - Save part 'xl/styles.xml'
+18:25:15.010 [main] DEBUG - Save part 'xl/workbook.xml'
+18:25:15.011 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+18:25:15.012 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+18:25:15.012 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+18:25:23.002 [main] INFO  - Navigating to Home Page 
+18:25:23.134 [main] INFO  - Scroll Down to bottom of the page and clicking on practo drive 
+18:25:23.389 [main] INFO  - Entering invalid details and cpature warning messages 
+18:25:25.907 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:25:25.908 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:25:26.093 [main] DEBUG - Save content types part
+18:25:26.095 [main] DEBUG - Save package relationships
+18:25:26.096 [main] DEBUG - Save part 'docProps/app.xml'
+18:25:26.096 [main] DEBUG - Save part 'docProps/core.xml'
+18:25:26.097 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+18:25:26.097 [main] DEBUG - Save part 'xl/styles.xml'
+18:25:26.098 [main] DEBUG - Save part 'xl/workbook.xml'
+18:25:26.099 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+18:25:26.099 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+18:25:26.099 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+18:25:26.100 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+18:25:59.057 [main] INFO  - Navigating to Home Page 
+18:25:59.273 [main] INFO  - Scroll Down to the Social media menu
+18:25:59.440 [main] INFO  - Validating the Instagram is present or not

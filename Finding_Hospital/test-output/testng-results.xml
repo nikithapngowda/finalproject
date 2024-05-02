@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-24T18:28:45 IST" name="Default suite" finished-at="2024-04-24T18:30:36 IST" duration-ms="110639">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestRunner@5149d738]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-04-24T18:28:45 IST" name="Default test" finished-at="2024-04-24T18:30:36 IST" duration-ms="110639">
+      <class name="testRunner.TestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:testRunner.TestRunner@5149d738]" started-at="2024-04-24T18:28:45 IST" name="setUpClass" finished-at="2024-04-24T18:28:57 IST" duration-ms="11352" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@64fc6470]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestRunner@5149d738]" started-at="2024-04-24T18:28:57 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-24T18:29:21 IST" duration-ms="24107" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Capture the hospital name and rating"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Finding Hospital - Practo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestRunner@5149d738]" started-at="2024-04-24T18:29:21 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-24T18:29:28 IST" duration-ms="6839" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Go to Book Diagnostic Test and pick all top cities name"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Finding Hospital - Practo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestRunner@5149d738]" started-at="2024-04-24T18:29:28 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-24T18:29:34 IST" duration-ms="6581" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Go to View All Specialties and print all specialties with price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Finding Hospital - Practo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestRunner@5149d738]" started-at="2024-04-24T18:29:34 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-24T18:29:42 IST" duration-ms="7367" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["click on practo drive and enter invalid details"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Finding Hospital - Practo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestRunner@5149d738]" started-at="2024-04-24T18:29:42 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-24T18:30:13 IST" duration-ms="30969" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Check if Instagram is present under Social"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Finding Hospital - Practo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunner.TestRunner@5149d738]" started-at="2024-04-24T18:30:13 IST" name="tearDownClass" finished-at="2024-04-24T18:30:36 IST" duration-ms="23346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
